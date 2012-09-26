@@ -1,0 +1,44 @@
+=head2 Wed Sep 26 18:43:50 2012: C<Module> L<Proc::Wait3|Proc::Wait3>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/konnok/Desktop/120920_singaku_net/proxy/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep 26 19:26:35 2012: C<Module> L<AnyEvent|AnyEvent>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/konnok/repos/cocproxy-pl-app/CocProxy.app/Contents/Resources/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 7.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

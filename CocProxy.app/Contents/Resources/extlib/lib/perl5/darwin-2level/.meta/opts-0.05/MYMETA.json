@@ -1,0 +1,56 @@
+{
+   "abstract" : "simple command line option parser",
+   "author" : [
+      "Kan Fushihara <kan.fushihara at gmail.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 0.91, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "opts",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t",
+         "xt"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42",
+            "Filter::Util::Call" : 0,
+            "Getopt::Long" : "2.37",
+            "PadWalker" : "1.9",
+            "Test::Exception" : 0,
+            "Test::More" : 0,
+            "Text::Table" : 0
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "git://github.com/kan/p5-opts.git"
+      }
+   },
+   "version" : "0.05"
+}
